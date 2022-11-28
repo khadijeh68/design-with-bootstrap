@@ -1,0 +1,125 @@
+.row-one{
+    background-color: #f9f9f9;
+   
+}
+.row-two{
+    height: 600px;
+    background-color: #f9f9f9;
+}
+.container h1{
+    margin-left: 150px;
+    font-size: 48px;
+}
+.navbar-nav{
+    margin-left: 333px;
+}
+.log img{
+    width: 50px;
+    height: 50px;
+    margin-top: -2px;
+}
+.logo-title{
+    font-size: 16px;
+}
+.log{
+    height: 90px;
+
+}
+.row-three img {
+    width: 50px;
+    height: 50px;
+    margin: 30px 165px;
+}
+.row-three{
+    height: 650px; 
+}
+
+
+.row-three .col-3 {
+    background-color:#f9f9f9;
+}
+.facebook{
+    width: 100px;
+    height: 200px;
+    background-color:#f9f9f9;
+}
+.log > div{
+    margin-left: 45px;
+}
+.facebook img{
+    width: 100px;
+    height: 100px;
+}
+.drag{
+    height: 300px;
+}
+.director img{
+    width: 300px;
+    height: 300px;
+}
+.row-five .direct{
+    margin-left: 40px;
+}
+.row-six img{
+    width: 1550px;
+    height: 300px;
+    
+}
+.row-six .col-6{
+    font-size: 38px;
+}
+
+.lorem{
+    font-size: 10px;
+}
+.row-six .position{
+    margin-left: 250px;
+}
+.row-six .position-right{
+    margin-right: 250px;
+}
+.facebook-drag{
+    width: 170px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 12px;
+    color: #000000;
+    padding: 15px 0 0 15px;
+}
+.facebook .p-two{
+    left: 280px;
+    top: 10px;
+}
+.facebook-drag-two{
+    /* width: 200px;
+    height: 40px; */
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+    color: #000000;
+}
+.facebook .p-three{
+    left: 270px;
+    top: 160px;
+}
+.drag .p-four{
+    border: 2px dashed rgb(202, 200, 200);
+    left: 125px;
+    top: 60px;
+    width: 150px;
+    height: 70px;
+}
+.facebook-drag-four{
+    font-size: 10px;
+    margin-top: -20px;
+    margin-left: 48px;
+}
+.facebook-drag-three{
+    margin-left: 45px;
+    margin-top: -37px;
+}
+.p-four img{
+    margin: 12px 0 0 8px;
+}
+.row-three-three p{
+    padding: 10px;
+}
